@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Arbol.h
+Nodo.h
+../include/Nodo.h
+
+../include/Nodo.h
+iostream
+-
+
+/home/carlos/Arbol/src/Arbol.cpp
+Arbol.h
+/home/carlos/Arbol/src/Arbol.h
+
+/home/carlos/Arbol/src/Nodo.cpp
+Nodo.h
+/home/carlos/Arbol/src/Nodo.h
+stddef.h
+-
+
+/home/carlos/Arbol/src/main.cpp
+Arbol.h
+/home/carlos/Arbol/src/Arbol.h
+iostream
+-
+stdio.h
+-
+string.h
+-
+stdio.h
+-
+

@@ -1,0 +1,3 @@
+/home/carlos/Arbol/build/CMakeFiles/edit_cache.dir
+/home/carlos/Arbol/build/CMakeFiles/rebuild_cache.dir
+/home/carlos/Arbol/build/CMakeFiles/Arbol.dir
